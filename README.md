@@ -23,7 +23,7 @@ pip install pillow numpy matplotlib
 ```
 
 ## Usage
-###Prepare the Maze File: Create a text file containing your maze. Use the following characters:
+### Prepare the Maze File: Create a text file containing your maze. Use the following characters:
 
 -# for walls
 -(space) for open spaces
